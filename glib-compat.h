@@ -1,8 +1,5 @@
 
 
-
-
-
 /*
  * GLIB Compatibility Functions
  *
